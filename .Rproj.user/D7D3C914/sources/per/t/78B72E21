@@ -1,0 +1,26 @@
+{
+    "id": "78B72E21",
+    "path": "~/Desktop/R/lstmdata/test/arima_test.R",
+    "project_path": "test/arima_test.R",
+    "type": "r_source",
+    "hash": "2664676762",
+    "contents": "",
+    "dirty": false,
+    "created": 1742116220317.0,
+    "source_on_save": false,
+    "relative_order": 9,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "13,19",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1742126535,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1742126535,
+    "read_only": false,
+    "read_only_alternatives": []
+}
