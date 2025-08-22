@@ -1,0 +1,39 @@
+Package: lstmdata
+Type: Package
+Title: Demo Cardla's statistic workflowes.
+Version: 0.1.0
+Authors@R: c(
+    person(
+      "Demo Cardla", 
+      email = "democardla@icloud.com",
+      role = c("aut", "cre")
+    )
+  )
+Description: A statistic workflow package aggregated Arima Model building, LSTM Model building, Bulk files import workflowes.
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.3.2
+Depends: 
+    tidyverse,
+    openxlsx,
+    readxl,
+    foreign,
+    ggplot2,
+    patchwork
+Imports: 
+    broom,
+    dplyr,
+    purrr,
+    scales,
+    tidyr,
+    tools,
+    utils,
+    sf,
+    ggspatial,
+    jsonlite,
+    RCurl,
+    forecast,
+    patchwork,
+    tseries
+    
